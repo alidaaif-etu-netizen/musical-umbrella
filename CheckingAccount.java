@@ -1,6 +1,7 @@
 // CheckingAccount.java
 
 import bankapp.Account;
+import bankapp.AccountType;
 
 public class CheckingAccount extends Account {
     private static final long serialVersionUID = 1L;

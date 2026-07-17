@@ -1,6 +1,7 @@
 // BusinessAccount.java
 
 import bankapp.Account;
+import bankapp.AccountType;
 
 public class BusinessAccount extends Account {
     private static final long serialVersionUID = 1L;
